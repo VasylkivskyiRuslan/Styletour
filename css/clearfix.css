@@ -1,0 +1,22 @@
+html(   <div class="box-first"></div>
+	<div class="box-second"></div>
+	<div class="box-third"></div>)
+
+css(	.box-first {
+  	width: 50px;
+  	height: 50px;
+  	background: red;
+  	float: left;
+}
+	.box-second {
+  	width: 50px;
+  	height: 50px;
+  	background: yellow;
+  	float: left;
+}
+	.box-third {
+  	width: 50px;
+  	height: 50px;
+  	background: blue;
+  	float: left;
+}
